@@ -37,6 +37,8 @@ Currently **Senior Frontend Engineer at Granicus**, owning and evolving the Gran
 
 Most of my depth is in **design-system foundations** — tokens, React component APIs, Storybook, Figma libraries, and contribution paths that let product teams adopt one system instead of forking UI per surface.
 
+Day to day I also work with **AI** — agents, shared skills, MCP, and the model that fits the job (Claude, GPT, Gemini, Grok) — so that work moves faster without lowering the bar.
+
 Accessibility and predictable interaction are the bar, not a polish pass at the end.
 
 ### Selected work
@@ -52,7 +54,7 @@ Accessibility and predictable interaction are the bar, not a polish pass at the 
 
 **[Granicus Design System](https://naveendb.in/work/granicus-design-system)**  
 `Granicus` · `2022 — Present`  
-Tokens, React components, patterns, and docs for multi-product UI.
+Tokens, React components, patterns, and docs for multi-product UI. Drafts move through agents and skills, then get checked against the system.
 
 **[Delivery Inaccuracy](https://naveendb.in/work/delivery-inaccuracy)**  
 `Accenture AI` · `Next.js`  
@@ -73,14 +75,14 @@ Portfolio and case studies — the public face of the work.
 
 ### Stack
 
-`React` · `TypeScript` · `Design systems` · `Storybook` · `Vue` · `Angular` · `Next.js` · `Jest` · `Testing Library` · `Figma`
+`AI` · `React` · `TypeScript` · `Design systems` · `Storybook` · `Vue` · `Angular` · `Next.js` · `Jest` · `Testing Library` · `Figma`
 
 <details>
 <summary><strong>Experience</strong></summary>
 <br/>
 
 **Granicus Inc.** — Senior Frontend Engineer · Sep 2022 — Present  
-Own and evolve the Granicus Design System with design partners — foundations, React components, patterns, Storybook, and contribution paths across product surfaces.
+Own and evolve the Granicus Design System with design partners — foundations, React components, patterns, Storybook, and contribution paths across product surfaces. AI sits in that practice: agents, shared skills, MCP, and the model that fits the job.
 
 **Accenture AI** — Front-end Engineer · Dec 2018 — Sep 2022  
 Analytics and insights product UI after Kogentix was acquired — Next.js reporting, Vue insights shells, React expense tooling.
