@@ -27,7 +27,7 @@
 
 I build **design systems** and product interfaces that stay coherent when products multiply — shared foundations, accessible components, and clear interaction.
 
-Currently **Senior Frontend Engineer at Granicus**, owning and evolving the Granicus Design System with design partners. Before that: enterprise analytics and IoT product UI at Accenture AI, Kogentix, and Flutura.
+Currently **Senior Frontend Engineer at Granicus**, owning and evolving the Granicus Design System with design partners. I use **AI** in that work — agents, shared skills, and the model that fits the job — then check the result against the system. Before that: enterprise analytics and IoT product UI at Accenture AI, Kogentix, and Flutura.
 
 <p align="center">
   <img src="./assets/rule.svg" width="320" alt="" />
